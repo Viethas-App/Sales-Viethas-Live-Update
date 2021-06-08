@@ -21,7 +21,6 @@ function createDefaultWindow() {
       resizable: false,
       minimizable: false,
       maximizable: false,
-      titleBarStyle: "hiddenInset",
       show: true,
       parent: myCapacitorApp.getMainWindow(),
       webPreferences: {
